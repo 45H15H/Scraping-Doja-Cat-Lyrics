@@ -1,6 +1,6 @@
 # Scraping Doja Cat lyrics
 
-Scraping the lyrics of [Doja Cat](https://www.dojacat.com/) and making a dataset from it.  
+Scraping the lyrics of [Doja Cat](https://www.dojacat.com/) and making a dataset from it for sentiment analysis.  
 
 ## Table of Contents
 
